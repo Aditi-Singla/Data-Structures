@@ -1,0 +1,18 @@
+queryNthChild 0 0:
+1
+queryNthChild 0 2:
+3
+queryNthChild 2 0:
+6
+queryNthChild 3 0:
+9
+queryMobilePhoneSet 4:
+989, 876
+queryMobilePhoneSet 1:
+989, 876
+queryMobilePhoneSet 1:
+989, 876, 656, 54
+queryMobilePhoneSet 1:
+989, 876, 54
+queryMobilePhoneSet 0:
+989, 876, 54, 213, 568, 897, 295, 346
